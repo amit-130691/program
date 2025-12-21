@@ -1,0 +1,2 @@
+Hi this is file A
+there is a first change in this file
