@@ -1,0 +1,2 @@
+Hi this is file B
+this is the change we are doing after syncing it to github.
